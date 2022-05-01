@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32414.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorujasDev.ReactGoogleCharts.Api", "CorujasDev.ReactGoogleCharts.Api\CorujasDev.ReactGoogleCharts.Api.csproj", "{63B6D07C-53E2-4250-9AE6-415B2245BB50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B6D07C-53E2-4250-9AE6-415B2245BB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B6D07C-53E2-4250-9AE6-415B2245BB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B6D07C-53E2-4250-9AE6-415B2245BB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B6D07C-53E2-4250-9AE6-415B2245BB50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8351E02A-82F5-4BCC-B028-289500703E06}
+	EndGlobalSection
+EndGlobal
