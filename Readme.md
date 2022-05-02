@@ -23,7 +23,7 @@ Execute o projeto
 
 ## ✒️ Autores
 
-    * **CorujasDev** - *Desenvolvimento* - <a href=“https://www.linkedin.com/in/fernandohenriqueguerra/“>Fernando Henrique</a>
+* **CorujasDev** - *Desenvolvimento* - [corujas.dev](https://www.linkedin.com/in/fernandohenriqueguerra)
 
 ## 🎁 Expressões de gratidão
 
